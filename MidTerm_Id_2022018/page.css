@@ -1,0 +1,13 @@
+.text .col img{
+    height:140px;
+    width:100px;
+
+}
+.col img{
+    height:10px;
+    width:7px;
+}
+.col {
+    display:flex;
+    padding:10px
+}
